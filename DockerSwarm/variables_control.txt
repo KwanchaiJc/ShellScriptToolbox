@@ -1,0 +1,3 @@
+flag_enable_script=true
+logspath=/opt/monitoring_docker/alert_log
+scriptspath=/opt/monitoring_docker
