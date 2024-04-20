@@ -4,8 +4,6 @@ A repository of shell scripts to simplify task management on the command line.
 ## Features
 ## Docker
  - Container Status
- - Backup mongo
- - Reclaim Space mongo
 
 ## Docker Swarm
  - Container Status
