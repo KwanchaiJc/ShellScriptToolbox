@@ -3,24 +3,18 @@ A repository of shell scripts to simplify task management on the command line.
 
 ## Features
 ## Docker
- - Status
- - Resource usage
- - Collect logs
+ - Container Status
  - Backup mongo
  - Reclaim Space mongo
- - etc.
 
 ## Docker Swarm
- - Status
- - Resource usage
- - Collect logs
+ - Container Status
  - Backup mongo
  - Reclaim Space mongo
- - etc.
 
 ## Linux
- - Status
+ - Resource usage [Cpu, Memory, Disk usage]
  - Send email
  - Network, Selinux
- - Disk usage
+ - Collect Logs file from each containers
  - Purge logs
